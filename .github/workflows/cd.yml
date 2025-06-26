@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build:
+  cd:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -30,4 +30,4 @@ jobs:
         run: npm run build
 
       - name: Deploy
-        uses: npm run deploy -- -r git@github.com:sergio-jc/cloud-lab.git
+        run: npm run deploy -- -r git@github.com:sergio-jc/cloud-lab.git
