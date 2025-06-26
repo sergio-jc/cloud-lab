@@ -1,9 +1,8 @@
-# ☁️ Laboratorio Cloud | LemonCode
+# ☁️ Laboratorio Cloud 2 | LemonCode
 
-URL del despliegue: [https://sergio-jc.github.io/cloud-lab/](https://sergio-jc.github.io/cloud-lab/)
+URL del despliegue: [https://sergio-jc.github.io/cloud-lab-2/](https://sergio-jc.github.io/cloud-lab-2/)
 
-![image](https://github.com/user-attachments/assets/a2c0fb47-b90b-478b-8e0c-9037db098169)
-
+![image](https://github.com/user-attachments/assets/b16eb68b-2ecb-4e5a-81a1-24f42fdff191)
 
 ## 📖 Overview
 
